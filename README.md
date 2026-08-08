@@ -1,33 +1,29 @@
 <div align="center">
 
-<!-- FAIXA DE ANIMAÇÃO SUPERIOR (Ondas + Gradiente Cyberpunk + Estrelas) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFCC,7000FF,FF007F&height=220&section=header&text=EDUARDO%20BEZERRA&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=55&descSize=16" width="100%" />
 
-<!-- TYPING ANIMATION (Texto humanizado) -->
 <a href="https://eduardosantosbezerra.netlify.app" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Ol%C3%A1,+eu+sou+o+Eduardo!;Transformando+dados+em+decis%C3%B5es;Arquitetando+sistemas+inteligentes;Bem-vindo+ao+meu+portf%C3%B3lio" alt="Typing Animation" />
 </a>
 
 </div>
 
-<!-- DIVISOR ANIMADO NEON -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem análise estratégica e arquitetura de software robusta. Acredito que a tecnologia deve ser usada para resolver problemas reais de forma eficiente e escalável.
 
-- 🎓 Graduando em **Ciência de Dados** pela FATEC.
-- 💻 Graduando em **Engenharia de Software** pela UNIASSELVI.
-- 🚀 Focado em Inteligência Artificial, Data Analytics e Automação.
-- 🌐 Explore meu trabalho no meu portfólio oficial: [eduardosantosbezerra.netlify.app](https://eduardosantosbezerra.netlify.app)
+- Graduando em **Ciência de Dados** pela FATEC.
+- Graduando em **Engenharia de Software** pela UNIASSELVI.
+- Focado em Inteligência Artificial, Data Analytics e Automação.
+- Explore meu trabalho no meu portfólio oficial: [eduardosantosbezerra.netlify.app](https://eduardosantosbezerra.netlify.app)
 
 <br>
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
-  <!-- Ícones Coloridos e Arredondados -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,nodejs,postgres,mysql&theme=dark" alt="Linguagens" />
   </a>
@@ -37,24 +33,22 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
   </a>
 </p>
 
-<!-- DIVISOR ANIMADO NEON -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🚀 Principais Projetos
+### Principais Projetos
 
-| 📂 Projeto | 💡 Descrição | 🔗 Link |
+| Projeto | Descrição | Status |
 | :--- | :--- | :---: |
-| 🌐 **Eduardo's Portfolio** | Landing page interativa e responsiva construída para marca pessoal. | [Acessar](https://eduardosantosbezerra.netlify.app) |
-| 🦷 **OdontoSinc** | Plataforma de banco de dados e gestão moderna voltada para clínicas odontológicas. | Em Dev |
-| 📱 **Chytrý Dům** | Sistema inteligente em React Native para integração e automação de Smart Homes. | Em Dev |
-| 📚 **Plataforma Educacional**| Ecossistema de correção e gestão de alunos integrado para o setor estudantil. | Em Dev |
+| **[Eduardo's Portfolio](https://eduardosantosbezerra.netlify.app)** | Landing page interativa e responsiva construída para marca pessoal. | Online |
+| **OdontoSinc** | Plataforma de banco de dados e gestão moderna voltada para clínicas odontológicas. | Em Dev |
+| **Chytrý Dům** | Sistema inteligente em React Native para integração e automação de Smart Homes. | Em Dev |
+| **Plataforma Educacional**| Ecossistema de correção e gestão de alunos integrado para o setor estudantil. | Em Dev |
 
 <br>
 
-### 📊 Minhas Métricas no GitHub
+### Minhas Métricas no GitHub
 
 <p align="center">
-  <!-- Troféus -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Duduzcx&theme=radical&margin-w=15&column=7&bg_color=0D1117&border_color=222222" alt="Trophies" />
   </a>
@@ -63,27 +57,25 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 <br>
 
 <p align="center">
-  <!-- Status e Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Top Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333&hide_border=false" width="97%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333" width="97%" alt="Top Languages" />
 </p>
 
 <br>
 
-### 📈 Histórico de Atividades
+### Histórico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&hide_border=false&border_color=333333" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&border_color=333333" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
 
-### 🐍 Contribuições (Snake Animation)
+### Contribuições Diárias
 
 <p align="center">
   <picture>
@@ -96,19 +88,17 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 ---
 
 <p align="center">
-  <!-- Redes Sociais no Rodapé -->
   <a href="https://eduardosantosbezerra.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=Netlify&logoColor=00FFCC&border_color=333333" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardosantosbezerra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC&border_color=333333" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:eduardosantosbbezerra@gmail.com">
     <img src="https://img.shields.io/badge/E_Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&border_color=333333" alt="E-mail"/>
   </a>
 </p>
 
-<!-- FAIXA DE ANIMAÇÃO INFERIOR -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FF007F,7000FF,00FFCC&height=150&section=footer" width="100%" />
 
 </div>
