@@ -57,12 +57,12 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333&v=1" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333&hide_border=false" width="97%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333&v=1" width="97%" alt="Top Languages" />
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 ### Histórico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&hide_border=false&border_color=333333" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&border_color=333333&v=1" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
