@@ -25,7 +25,7 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,nodejs,postgres,mysql&theme=dark" alt="Linguagens" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,nextjs,nodejs,postgres,mysql&theme=dark" alt="Linguagens" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
@@ -37,12 +37,12 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 
 ### Principais Projetos
 
-| Projeto | Descrição | Status |
-| :--- | :--- | :---: |
-| **[Eduardo's Portfolio](https://eduardosantosbezerra.netlify.app)** | Landing page interativa e responsiva construída para marca pessoal. | Online |
-| **OdontoSinc** | Plataforma de banco de dados e gestão moderna voltada para clínicas odontológicas. | Em Dev |
-| **Chytrý Dům** | Sistema inteligente em React Native para integração e automação de Smart Homes. | Em Dev |
-| **Plataforma Educacional**| Ecossistema de correção e gestão de alunos integrado para o setor estudantil. | Em Dev |
+| Projeto | Descrição | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Eduardo's Portfolio](https://eduardosantosbezerra.netlify.app)** | Landing page interativa e responsiva construída para marca pessoal. | `React` `UI/UX` | Online |
+| **[Plataforma Compromisso](https://compromissose.com)** | Arquitetura de banco de dados, gerenciamento de dados e lógica de negócio estrutural. | `Next.js` `TypeScript` `Dados` | Online |
+| **[Estética Automotiva](https://esteticaau.netlify.app)** | Responsividade e entrega de valor real para nicho específico, do agendamento à apresentação. | `React` `Responsivo` `UX` | Online |
+| **[Dar Semijoias](https://darsemijoias.netlify.app)** | E-commerce visual para semijoias, com foco em design e apresentação de produto. | `UI/UX` `E-commerce` | Online |
 
 <br>
 
@@ -57,12 +57,12 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duduzcx&show_icons=true&bg_color=0D1117&title_color=FF007F&text_color=B3B9C5&icon_color=00FFCC&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duduzcx&theme=dark&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC&sideLabels=B3B9C5&dates=B3B9C5&border=333333&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333" width="97%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduzcx&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=B3B9C5&border_color=333333&hide_border=false" width="97%" alt="Top Languages" />
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Sou um Desenvolvedor e Cientista de Dados focado em criar soluções que unem an
 ### Histórico de Atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&border_color=333333" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduzcx&bg_color=0D1117&color=B3B9C5&line=00FFCC&point=FF007F&area=true&hide_border=false&border_color=333333" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
